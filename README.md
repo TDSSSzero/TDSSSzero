@@ -1,11 +1,11 @@
-<a href="https://github.com/TDSSSzero">
-<image align="right" src="https://github-readme-stats.vercel.app/api?username=TDSSSzero&theme=dracula"/>
-</a>
 ### TDSSS
 
 <h2 align="center">做好最坏的打算，哪怕山穷水尽</h2>
 
 <p>Strive to become a loyal gamer.</p>
+<a href="https://github.com/TDSSSzero">
+<image align="right" src="https://github-readme-stats.vercel.app/api?username=TDSSSzero&theme=dracula"/>
+</a>
 
 
 <!--
