@@ -1,7 +1,19 @@
 ### TDSSS
+
+<h2 align="center">做好最坏的打算，哪怕山穷水尽</h2>
+
+<a href="https://github.com/TDSSSzero">
+<image align="left" src="https://github-readme-stats.vercel.app/api?username=TDSSSzero&theme=dracula"/>
+</a>
+
+<a href="https://github.com/TDSSSzero">
+<image align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TDSSSzero"/>
+</a>
+<!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TDSSSzero&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TDSSSzero)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
 <!--
 **TDSSSzero/TDSSSzero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
