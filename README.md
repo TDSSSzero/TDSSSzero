@@ -2,8 +2,9 @@
 
 <h2 align="center">做好最坏的打算，哪怕山穷水尽</h2>
 
+<p>学无止境！</p>
 <a href="https://github.com/TDSSSzero">
-<image align="left" src="https://github-readme-stats.vercel.app/api?username=TDSSSzero&theme=dracula"/>
+<image align="right" src="https://github-readme-stats.vercel.app/api?username=TDSSSzero&theme=dracula"/>
 </a>
 
 <a href="https://github.com/TDSSSzero">
