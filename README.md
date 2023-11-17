@@ -4,7 +4,7 @@
 
 <p>Strive to become a loyal gamer.</p>
 <a href="https://github.com/TDSSSzero">
-<image align="right" src="https://github-readme-stats.vercel.app/api?username=TDSSSzero&theme=dracula"/>
+<image src="https://github-readme-stats.vercel.app/api?username=TDSSSzero&theme=dracula"/>
 </a>
 
 
